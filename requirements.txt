@@ -1,0 +1,8 @@
+EasyProcess==0.2.3
+numpy==1.15.0
+pandas==0.23.3
+python-dateutil==2.7.3
+pytz==2018.5
+PyVirtualDisplay==0.2.1
+selenium==3.13.0
+six==1.11.0
