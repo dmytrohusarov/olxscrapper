@@ -1,9 +1,8 @@
 # olxscrapper
 Scrap OLX 
 
-Need to install headless firefox:
-https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Headless_mode#Automated_testing_with_headless_mode
+docker build -t olxscrapper .
 
-https://github.com/mozilla/geckodriver/releases
+docker run --name olx --privileged -p 4000:4000 -d -it olxscrapper
 
-install firefox
+sh start.sh
