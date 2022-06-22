@@ -1,5 +1,5 @@
 EasyProcess==0.2.3
-numpy==1.15.0
+numpy==1.22.0
 pandas==0.23.3
 python-dateutil==2.7.3
 pytz==2018.5
